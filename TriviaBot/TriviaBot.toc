@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: |cff1fff1fBennylava's TriviaBot
+## Notes: Fun in game Trivia addon made by |cff1fff1f Bennylava |r of |cff1fff1f Emerald Dream |r version 1.0.
+## Author: Bennylava. Guri was the original author though.
+## Version: 1.0 - Emerald Dream
+## SavedVariables:TRIVIA_CONFIG
+
+TriviaBot.lua
+TriviaBot.xml
